@@ -5,7 +5,7 @@ pip install requests datetime
 ```
 使用方法:
 ```shell
-python speedtest.py --server-id 50467 --ping 5 --download 931111 --upload 822437
+python 2.py --server-id 50467 --ping 5 --download 931111 --upload 822437
 ```
 结果:https://www.speedtest.net/zh-Hans/result/16810695849
 
